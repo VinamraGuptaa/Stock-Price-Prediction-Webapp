@@ -152,7 +152,7 @@ st.write("Made with ❤️by Vinamra Gupta")
 
 
 
-col1, col2,col3 = st.beta_columns(3)
+col1, col2,col3 = st.columns(3)
 
 with col1:
     st.markdown('''
