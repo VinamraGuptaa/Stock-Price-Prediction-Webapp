@@ -9,3 +9,4 @@ seaborn==0.11.1
 streamlit==0.88.0
 gunicorn==19.0.0
 pystan==2.19.1.1
+prophet @ file:///D:/bld/prophet_1629685343686/work
