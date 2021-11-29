@@ -1,6 +1,18 @@
-# Stock-Price-Prediction-Webapp
-Hello, In this project I have done a exploratory data analysis of major stocks in Indian stock market. I have used Yahoo finance to get the latest data of the different stock and I have used Facebook Prophet a forecasting model to predict the price trend in the near future. I have also created a webapp using streamlit demonstrating all of that.The model has MAPE of 10%.
-Do check it out.
- Here is the link to the webapp: https://share.streamlit.io/vinamraguptaa/stock-price-prediction-webapp/main/stock_price_prediction.py
- 
- 
+# Stock Price Prediction webapp
+Stock Price Prediction predicts and gives you the stock price of NIFTY stocks such as TCS,RIL,ICICI BNK etc. The webapp uses Facebook Prophet model to predict the stock price. It has an MAPE of 10%.
+
+## Installation
+
+Use the link to checkout the webapp https://share.streamlit.io/vinamraguptaa/stock-price-prediction-webapp/main/stock_price_prediction.py
+
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
